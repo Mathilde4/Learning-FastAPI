@@ -10,12 +10,12 @@ Authentification des utilisateurs avec JWT
 Installation
 
 -Cloner le projet 
-git clone https://github.com/ton-utilisateur/ton-repo.git
+git clone https://github.com/Mathilde4/Learning-FastAPI.git
 cd ton-repo
 
 -Créer un environnement virtuel(Optionnel mais recommandé)
 python -m venv env
-# Sur Windows : env\Scripts\activate.bat
+Sur Windows : env\Scripts\activate.bat
 
 _Installer les dépendances
 pip install -r requirements.txt
@@ -33,7 +33,7 @@ Base de données : sqlite
 Authentification : OAuth2, JWT
 
 
-Auteur
+Auteur : 
 👨‍💻 Mathilde
 📧 Contact : mathibassadou@gmail.com
 
