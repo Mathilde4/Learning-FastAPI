@@ -11,7 +11,7 @@ Installation :
 
 -Cloner le projet : 
 git clone https://github.com/Mathilde4/Learning-FastAPI.git
-cd ton-repo
+cd Learning-FastAPI
 
 -Créer un environnement virtuel(Optionnel mais recommandé) :
 python -m venv env
